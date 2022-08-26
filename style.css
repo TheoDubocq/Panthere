@@ -823,8 +823,22 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+
+}
+p{
+    font-size: 13px;
+}
+.citation{
+    font-size: 15px;
+    margin: 0;
+}
+.bold{
+    font-weight: 600
 }
 
+.italic{
+    font-weight: 100;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
