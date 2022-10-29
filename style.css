@@ -7,7 +7,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-
 a,
 button {
     transition: all .3s ease-in-out;
@@ -460,9 +459,6 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
 
 .btn-rd {
     border-radius: 40px;
